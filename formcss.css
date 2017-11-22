@@ -1,0 +1,30 @@
+body {font-size: 20px;
+		font-family: calibari;
+	}
+.main {
+
+	background: #f7f7f7;
+	width: 500px;
+	height: 560px;	
+	margin: 0px auto;	
+	}
+
+ h1{
+ 	text-align: center;
+	font-size: 48px;
+	color: rgb(6, 106, 117);
+	font-family: 'FranchiseRegular',sans-serif;
+	font-weight: bold;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+.uname,.upassword{float: left;
+margin-left: 45px}
+
+
+.text{width: 80%;
+ font-size:25px;
+
+}
+.button  {font-size: 20px}
